@@ -19,7 +19,7 @@ Using machine learning and a set of client data from an insurance company, we ar
 - *Family Members*: Number of family members insured under the client.
 - *Insurance Benefits*: Number of benefits claimed by the insured person in the last five years.
 
-## Required Libraries
+## Requirements
 - numpy
 - pandas
 - math
